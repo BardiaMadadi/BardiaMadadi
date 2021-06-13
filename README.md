@@ -1,3 +1,3 @@
 # Bardia Madadi
 ## Junior backend developer
-[php]('./php-icon.jpg)"php"
+[I'm an inline-style link](https://www.google.com)
