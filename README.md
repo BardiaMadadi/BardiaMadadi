@@ -24,5 +24,4 @@
 - [ ] Team work 🙌🏽
 ------------------
 # Social medias 
-<img src="https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/php-icon.jpg" width="60" height="60">
-<img src="https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/php-icon.jpg" width="60" height="60">
+[![instagram](https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/sdsd.png)](https://www.instagram.com/bardiagameowner/)
