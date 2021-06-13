@@ -24,4 +24,5 @@
 - [ ] Team work 🙌🏽
 ------------------
 # Social medias 
-[![instagram](https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/sdsd.png)](https://www.instagram.com/bardiagameowner/)
+[![instagram](https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/instagram-small-icon-12.png)](https://www.instagram.com/bardiagameowner/)
+[![instagram](https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/800px-youtube_full-color_icon_.png)](https://www.youtube.com/channel/UCqGFRXresTOMfvi6CohP5XQ?sub_confirmation=1)
