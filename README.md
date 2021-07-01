@@ -17,11 +17,11 @@
 
 - [x] Learn basics of PHP 😉
 
-- [ ] Learn API 👨🏾‍💻
+- [x] Learn API 👨🏾‍💻
 
 - [ ] Learn advance about php 💪🏽
 
-- [ ] Team work 🙌🏽
+- [x] Team work 🙌🏽
 ------------------
 # Social medias 
 [![instagram](https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/instagram-small-icon-12.png)](https://www.instagram.com/bardiagameowner/)
