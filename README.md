@@ -10,7 +10,7 @@
 ## info :
 > Main language : PHP 🙂
 > 
-> Working on [Learning-php](https://github.com/BardiaMadadi/Learning-php"Learning-php") - Pors no (private) 🔥
+> Working on [Learning-php](https://github.com/BardiaMadadi/Learning-php"Learning-php") - [Learning Laravel](https://github.com/BardiaMadadi/Learning-Laravel) - Pors no (private) 🔥
 > 
 
 ## TO-DO
@@ -19,7 +19,7 @@
 
 - [x] Learn API 👨🏾‍💻
 
-- [ ] Learn advance about php 💪🏽
+- [x] Learn advance about php 💪🏽
 
 - [x] Team work 🙌🏽
 ------------------
