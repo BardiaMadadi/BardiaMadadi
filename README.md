@@ -6,8 +6,6 @@
 <img src="https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/php-icon.jpg" width="60" height="60">
 
 
-<img src="https://raw.githubusercontent.com/BardiaMadadi/BardiaMadadi/main/sdsd.png" width="60" height="60">
-
 ------------------
 ## info :
 > Main language : PHP 🙂
